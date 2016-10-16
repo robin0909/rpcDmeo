@@ -1,0 +1,6 @@
+rootProject.name = 'rpcDemo'
+
+include "http-rpc"
+include "http-provider"
+include "http-consumer"
+include "http-interfaces"

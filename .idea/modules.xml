@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/http-consumer/http-consumer.iml" filepath="$PROJECT_DIR$/http-consumer/http-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-interfaces/http-interfaces.iml" filepath="$PROJECT_DIR$/http-interfaces/http-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-provider/http-provider.iml" filepath="$PROJECT_DIR$/http-provider/http-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-rpc/http-rpc.iml" filepath="$PROJECT_DIR$/http-rpc/http-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpcDemo.iml" filepath="$PROJECT_DIR$/rpcDemo.iml" />
+    </modules>
+  </component>
+</project>

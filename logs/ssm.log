@@ -1,0 +1,128 @@
+[INFO] [2016-10-11 22:04:06][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:04:06 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:04:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-context.xml]
+[INFO] [2016-10-11 22:04:07][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:04:07][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:04:08][org.mortbay.log]Started SelectChannelConnector@127.0.0.1:8080
+[INFO] [2016-10-11 22:04:51][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:04:51 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:04:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-context.xml]
+[INFO] [2016-10-11 22:04:53][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:04:53][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:04:53][org.mortbay.log]Started SelectChannelConnector@127.0.0.1:8080
+[INFO] [2016-10-11 22:06:45][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1edf1c96: startup date [Tue Oct 11 22:06:45 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:06:45][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:06:46][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:06:46][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:06:46][org.mortbay.log]Started SelectChannelConnector@127.0.0.1:8080
+[INFO] [2016-10-11 22:08:27][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1edf1c96: startup date [Tue Oct 11 22:08:27 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:08:27][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:08:29][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:08:29][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:08:29][org.mortbay.log]Started SelectChannelConnector@127.0.0.1:8080
+[INFO] [2016-10-11 22:13:39][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:13:39 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:13:39][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:13:41][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:13:41][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:13:41][org.mortbay.log]Started SelectChannelConnector@127.0.0.1:8080
+[INFO] [2016-10-11 22:15:18][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:15:18 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:15:18][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:15:26][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:15:26][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:15:26][org.mortbay.log]Started SelectChannelConnector@127.0.0.1:8080
+[INFO] [2016-10-11 22:16:26][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:16:26 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:16:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:16:37][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:16:37 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:16:37][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:16:39][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:16:39][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:16:39][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 22:17:57][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:17:57 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:17:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:17:59][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:17:59][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:17:59][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 22:19:12][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:19:12 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:19:13][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:19:14][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:19:14][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:19:14][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 22:35:29][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1edf1c96: startup date [Tue Oct 11 22:35:29 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:35:29][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:35:31][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:35:31][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:35:31][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 22:37:21][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:37:21 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:37:21][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:37:24][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:37:24][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:37:24][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 22:41:41][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:41:41 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:41:41][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:41:43][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:41:43][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:41:43][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 22:42:59][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:42:59 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:42:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:43:03][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:43:03][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:43:03][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 22:43:19][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 22:43:19 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 22:43:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 22:43:22][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 22:43:22][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 22:43:22][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 23:07:09][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 23:07:09 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 23:07:09][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 23:07:11][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 23:07:11][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 23:07:11][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 23:10:58][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 23:10:58 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 23:10:58][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 23:11:00][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 23:11:00][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 23:11:00][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 23:24:00][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 23:24:00 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 23:24:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 23:24:04][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 23:24:04][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 23:24:04][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 23:34:45][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 23:34:45 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 23:34:45][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 23:34:47][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 23:34:47][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 23:34:47][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 23:50:14][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 23:50:14 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 23:50:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 23:50:17][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 23:50:17][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 23:50:17][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 23:54:08][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 23:54:08 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 23:54:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 23:54:11][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 23:54:11][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 23:54:11][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 23:57:17][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 23:57:17 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 23:57:17][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 23:57:19][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 23:57:19][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 23:57:19][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-11 23:58:47][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Tue Oct 11 23:58:47 CST 2016]; root of context hierarchy
+[INFO] [2016-10-11 23:58:47][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-11 23:58:49][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-11 23:58:49][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-11 23:58:49][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-12 00:15:21][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Wed Oct 12 00:15:21 CST 2016]; root of context hierarchy
+[INFO] [2016-10-12 00:15:35][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Wed Oct 12 00:15:35 CST 2016]; root of context hierarchy
+[INFO] [2016-10-12 00:15:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-12 00:15:38][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-12 00:15:38][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-12 00:15:38][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-12 01:01:26][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Wed Oct 12 01:01:26 CST 2016]; root of context hierarchy
+[INFO] [2016-10-12 01:01:27][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-12 01:01:30][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-12 01:01:30][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-12 01:01:30][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
+[INFO] [2016-10-12 01:06:55][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a67c67e: startup date [Wed Oct 12 01:06:55 CST 2016]; root of context hierarchy
+[INFO] [2016-10-12 01:06:56][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:/E:/idea-code/rpcDemo/http-provider/build/resources/main/spring-context.xml]
+[INFO] [2016-10-12 01:06:58][org.mortbay.log]Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+[INFO] [2016-10-12 01:06:58][org.mortbay.log]jetty-6.1.26
+[INFO] [2016-10-12 01:06:58][org.mortbay.log]Started SelectChannelConnector@0.0.0.0:8080
